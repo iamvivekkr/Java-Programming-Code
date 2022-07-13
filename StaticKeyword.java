@@ -25,7 +25,7 @@ public class StaticKeyword{
    StaticKeywords s2 = new StaticKeywords(222,"Aryan");  
    StaticKeywords s3 = new StaticKeywords(333,"Sonoo");  
    //calling display method  
-   s1.display();  
+    s1.display(); 
    s2.display();  
    s3.display();  
    }  
